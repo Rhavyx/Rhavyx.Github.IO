@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.a4d8f3e5.chunk.css",
-    "main.js": "/static/js/main.50ebeb8a.chunk.js",
-    "main.js.map": "/static/js/main.50ebeb8a.chunk.js.map",
+    "main.js": "/static/js/main.d0db115a.chunk.js",
+    "main.js.map": "/static/js/main.d0db115a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f719501c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f719501c.js.map",
     "static/css/2.a19a32be.chunk.css": "/static/css/2.a19a32be.chunk.css",
-    "static/js/2.dc098149.chunk.js": "/static/js/2.dc098149.chunk.js",
-    "static/js/2.dc098149.chunk.js.map": "/static/js/2.dc098149.chunk.js.map",
+    "static/js/2.b0b88efa.chunk.js": "/static/js/2.b0b88efa.chunk.js",
+    "static/js/2.b0b88efa.chunk.js.map": "/static/js/2.b0b88efa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2ebc397935a57f30f7b61743f0050468.js": "/precache-manifest.2ebc397935a57f30f7b61743f0050468.js",
+    "precache-manifest.a9dd5487002b1d353629a6492c00f866.js": "/precache-manifest.a9dd5487002b1d353629a6492c00f866.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a19a32be.chunk.css.map": "/static/css/2.a19a32be.chunk.css.map",
     "static/css/main.a4d8f3e5.chunk.css.map": "/static/css/main.a4d8f3e5.chunk.css.map",
-    "static/js/2.dc098149.chunk.js.LICENSE.txt": "/static/js/2.dc098149.chunk.js.LICENSE.txt",
+    "static/js/2.b0b88efa.chunk.js.LICENSE.txt": "/static/js/2.b0b88efa.chunk.js.LICENSE.txt",
     "static/media/LumniM.mp4": "/static/media/LumniM.7574447d.mp4",
     "static/media/fraudes.png": "/static/media/fraudes.9d76aaa0.png",
+    "static/media/hj.gif": "/static/media/hj.5db4e49b.gif",
     "static/media/images.jpg": "/static/media/images.518bb997.jpg",
     "static/media/java.png": "/static/media/java.a793b79a.png",
-    "static/media/neural.gif": "/static/media/neural.7ad0c9b1.gif",
     "static/media/pc3.jpg": "/static/media/pc3.a3bbc65c.jpg",
     "static/media/perfilM.mp4": "/static/media/perfilM.a54db5e3.mp4",
     "static/media/savio.png": "/static/media/savio.9c5489da.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.f719501c.js",
     "static/css/2.a19a32be.chunk.css",
-    "static/js/2.dc098149.chunk.js",
+    "static/js/2.b0b88efa.chunk.js",
     "static/css/main.a4d8f3e5.chunk.css",
-    "static/js/main.50ebeb8a.chunk.js"
+    "static/js/main.d0db115a.chunk.js"
   ]
 }
