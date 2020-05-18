@@ -1,28 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.a4d8f3e5.chunk.css",
-    "main.js": "/static/js/main.42f72d02.chunk.js",
-    "main.js.map": "/static/js/main.42f72d02.chunk.js.map",
+    "main.js": "/static/js/main.dd5884a0.chunk.js",
+    "main.js.map": "/static/js/main.dd5884a0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f719501c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f719501c.js.map",
     "static/css/2.a19a32be.chunk.css": "/static/css/2.a19a32be.chunk.css",
-    "static/js/2.fc301c48.chunk.js": "/static/js/2.fc301c48.chunk.js",
-    "static/js/2.fc301c48.chunk.js.map": "/static/js/2.fc301c48.chunk.js.map",
+    "static/js/2.e7f499ed.chunk.js": "/static/js/2.e7f499ed.chunk.js",
+    "static/js/2.e7f499ed.chunk.js.map": "/static/js/2.e7f499ed.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6b5bd9b01b772e428bc761f9d2a79966.js": "/precache-manifest.6b5bd9b01b772e428bc761f9d2a79966.js",
+    "precache-manifest.ff07ffb95299072e2c96ade4a49c70c5.js": "/precache-manifest.ff07ffb95299072e2c96ade4a49c70c5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a19a32be.chunk.css.map": "/static/css/2.a19a32be.chunk.css.map",
     "static/css/main.a4d8f3e5.chunk.css.map": "/static/css/main.a4d8f3e5.chunk.css.map",
-    "static/js/2.fc301c48.chunk.js.LICENSE.txt": "/static/js/2.fc301c48.chunk.js.LICENSE.txt",
-    "static/media/bc1.jpg": "/static/media/bc1.a17d3785.jpg",
+    "static/js/2.e7f499ed.chunk.js.LICENSE.txt": "/static/js/2.e7f499ed.chunk.js.LICENSE.txt",
+    "static/media/LUMNI.png": "/static/media/LUMNI.c4fd6cbd.png",
+    "static/media/NLRM.gif": "/static/media/NLRM.02e14146.gif",
+    "static/media/SonoAPP.mp4": "/static/media/SonoAPP.5ed05082.mp4",
+    "static/media/bc3.jpg": "/static/media/bc3.6f0a9e56.jpg",
+    "static/media/fraudes.png": "/static/media/fraudes.f6a95d36.png",
+    "static/media/java.png": "/static/media/java.a793b79a.png",
     "static/media/pc3.jpg": "/static/media/pc3.a3bbc65c.jpg",
+    "static/media/perfil.mp4": "/static/media/perfil.c0472fbd.mp4",
     "static/media/savio.png": "/static/media/savio.9c5489da.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f719501c.js",
     "static/css/2.a19a32be.chunk.css",
-    "static/js/2.fc301c48.chunk.js",
+    "static/js/2.e7f499ed.chunk.js",
     "static/css/main.a4d8f3e5.chunk.css",
-    "static/js/main.42f72d02.chunk.js"
+    "static/js/main.dd5884a0.chunk.js"
   ]
 }
