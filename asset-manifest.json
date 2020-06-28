@@ -1,34 +1,36 @@
 {
   "files": {
     "main.css": "/static/css/main.a4d8f3e5.chunk.css",
-    "main.js": "/static/js/main.362fc50d.chunk.js",
-    "main.js.map": "/static/js/main.362fc50d.chunk.js.map",
+    "main.js": "/static/js/main.240b8b77.chunk.js",
+    "main.js.map": "/static/js/main.240b8b77.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f719501c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f719501c.js.map",
     "static/css/2.a19a32be.chunk.css": "/static/css/2.a19a32be.chunk.css",
-    "static/js/2.b0b88efa.chunk.js": "/static/js/2.b0b88efa.chunk.js",
-    "static/js/2.b0b88efa.chunk.js.map": "/static/js/2.b0b88efa.chunk.js.map",
+    "static/js/2.fdb7c960.chunk.js": "/static/js/2.fdb7c960.chunk.js",
+    "static/js/2.fdb7c960.chunk.js.map": "/static/js/2.fdb7c960.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.abd50539d61a19b59fe4fd247c0a7785.js": "/precache-manifest.abd50539d61a19b59fe4fd247c0a7785.js",
+    "precache-manifest.000c840e5b405ac226c5728841cd48b9.js": "/precache-manifest.000c840e5b405ac226c5728841cd48b9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a19a32be.chunk.css.map": "/static/css/2.a19a32be.chunk.css.map",
     "static/css/main.a4d8f3e5.chunk.css.map": "/static/css/main.a4d8f3e5.chunk.css.map",
-    "static/js/2.b0b88efa.chunk.js.LICENSE.txt": "/static/js/2.b0b88efa.chunk.js.LICENSE.txt",
+    "static/js/2.fdb7c960.chunk.js.LICENSE.txt": "/static/js/2.fdb7c960.chunk.js.LICENSE.txt",
     "static/media/LumniM.mp4": "/static/media/LumniM.7574447d.mp4",
     "static/media/bc1.jpg": "/static/media/bc1.a17d3785.jpg",
     "static/media/fraudes.png": "/static/media/fraudes.9d76aaa0.png",
     "static/media/images.jpg": "/static/media/images.518bb997.jpg",
     "static/media/java.png": "/static/media/java.a793b79a.png",
+    "static/media/manutencao.png": "/static/media/manutencao.f2e57fff.png",
     "static/media/pc3.jpg": "/static/media/pc3.a3bbc65c.jpg",
     "static/media/perfilM.mp4": "/static/media/perfilM.a54db5e3.mp4",
+    "static/media/portfolio.png": "/static/media/portfolio.45c326d2.png",
     "static/media/savio.png": "/static/media/savio.9c5489da.png",
     "static/media/sonoAPPM.mp4": "/static/media/sonoAPPM.5aeab710.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.f719501c.js",
     "static/css/2.a19a32be.chunk.css",
-    "static/js/2.b0b88efa.chunk.js",
+    "static/js/2.fdb7c960.chunk.js",
     "static/css/main.a4d8f3e5.chunk.css",
-    "static/js/main.362fc50d.chunk.js"
+    "static/js/main.240b8b77.chunk.js"
   ]
 }
