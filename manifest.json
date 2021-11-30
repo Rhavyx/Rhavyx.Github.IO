@@ -1,11 +1,6 @@
 {
   "short_name": "Everton Savio",
   "name": "Everton Savio Webpage",
-  "description": "Everton Sávio Webpage",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
   "icons": [
     {
       "src": "s.ico",
@@ -22,5 +17,9 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ]
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
